@@ -2,7 +2,7 @@
 # Realtek 8814AU USB WiFi Driver
 
 Driver for the Edimax EW7833UAC (AC1750 802.11ac Dual-Band Wi-Fi USB 3.0 Adapter) and other adapters using the same Realtek chipset.
-Modified from the original source code for Linux kernels up to 4.8 with DKMS support.
+Modified from the original source code for Linux kernels >= 4.8 with DKMS support.
 
 ## DKMS
 [DKMS](http://linux.dell.com/dkms/) is a system which will automatically recompile and install a kernel module when a new kernel gets installed or updated.
